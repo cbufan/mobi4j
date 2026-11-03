@@ -1,0 +1,8 @@
+target/
+build.log
+*.class
+*.mobi
+!src/test/resources/**/*.mobi
+.idea/
+*.iml
+.vscode/
